@@ -1,0 +1,4 @@
+Replicas is about the duplication
+Sharding os about the distribution
+Each shard is often a replica set to provide fault tollerance
+With shards every document has a shard key that tells to which shard the document belongs to
